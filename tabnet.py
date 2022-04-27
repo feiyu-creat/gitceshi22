@@ -130,4 +130,4 @@ sns.heatmap(cm_tab,annot=True,cmap="RdBu_r",fmt="d",cbar=False, annot_kws={"size
 plt.show()
 
 
-####大K来溜达溜达飒飒来的啊
+###没事的接口哈根数据库的
